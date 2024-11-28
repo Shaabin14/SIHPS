@@ -82,29 +82,36 @@ Government of Gujarat
 
 Web: React / Angular, CSS3 / Material UI
 Mobile: Flutter / React Native, Swift (iOS), Kotlin (Android)
+
 2. Backend
 
 Framework: Node.js / Express or Django (Python)
 Real-time: WebSocket
+
 3. Database
 
 Relational: PostgreSQL / MySQL
 NoSQL: MongoDB
+
 4. Authentication & Security
 
 OAuth 2.0 / JWT, MFA
+
 5. Cloud Hosting
 
 Cloud: AWS / Google Cloud
 CDN: CloudFront
+
 6. Third-Party Integrations
 
 Payment: Stripe / PayPal
 Email/Notifications: SendGrid / Firebase
 Analytics: Google Analytics
+
 7. DevOps & CI/CD
 
 Docker, Kubernetes, Jenkins / GitHub Actions
+
 8. Testing & Monitoring
 
 Testing: Jest, Mocha
@@ -117,29 +124,36 @@ This stack ensures a scalable, secure, and high-performing platform.
 React / Angular, React Native / Flutter (mobile)
 Material UI / Bootstrap (UI components)
 Axios (HTTP requests), Redux (state management)
+
 2. Backend
 
 Node.js, Express
 JWT (authentication), Socket.io (real-time)
+
 3. Database
 
 PostgreSQL / MySQL (relational), MongoDB (NoSQL)
 Sequelize / Mongoose (ORM/ODM)
+
 4. Cloud & Hosting
 
 AWS SDK, CloudFront, Docker
+
 5. Payment Gateway
 
 Stripe / Razorpay
+
 6. Email & Notifications
 
 SendGrid, Firebase Cloud Messaging
+
 7. Analytics
 
 Google Analytics, Mixpanel
 DevOps & CI/CD
 
 Jenkins, GitHub Actions, Kubernetes
+
 8. Testing
 
 Jest, Mocha
